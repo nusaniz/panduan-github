@@ -1,4 +1,4 @@
-# Panduan Penggunaan Git
+# Panduan Penggunaan Git last
 
 * [Mengunduh repository ke dalam komputer](http://https://github.com/datascienceid/README#mengunduh-repository)
 * [Memperbarui repository yang telah diunduh](https://github.com/datascienceid/README#memperbarui-repository)
